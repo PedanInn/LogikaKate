@@ -1,0 +1,38 @@
+body {
+    font-family: sans-serif;
+    background-color: rgba(255, 201, 248, 0.582);
+}
+h1{
+    font-family: serif;
+    font-size: 70px;
+    text-align: center;
+    color: rgba(162, 129, 163, 0.76);
+}
+img{
+    border: 2px solid rgba(197, 70, 186, 0.377);
+}
+footer {
+    background-color: rgba(161, 96, 153, 0.322);
+    color:rgba(145, 145, 145, 0.623);
+margin-top: 30px;
+}
+details{
+color: rgb(186, 142, 199);
+margin-top: 30px;
+}
+
+details p{
+    
+
+}
+
+nav{
+background-color: rgba(218, 154, 154, 0.205);
+padding: 10px;
+
+}
+nav a{
+text-decoration: none;
+color: rgb(201, 154, 201);
+margin: 2px;
+}
